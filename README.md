@@ -8,3 +8,5 @@ simple animations using blender
 + 2_wood_chipping_effect : This animation shows the wood chipping effect in my name. This is made using Blender 2.79b in windows x64.
 
 + 3_carved_text_animation : This animation shows the carving effect of a text on a stoned wall. This is made using Blender 2.79b in windows x64.
+
++ 4_make_png_transparent : This video shows how to make png file transparent. This is made using Blender 2.79b in Ubuntu OS 20.04 LTS (Focal Fossa).
