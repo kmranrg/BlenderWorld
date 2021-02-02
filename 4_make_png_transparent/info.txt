@@ -1,1 +1,1 @@
-This video shows how to make png file transparent. This is made using Blender 2.79b in Ubuntu OS 20.04 LTS (Focal Fossa).
+This video shows how to make png file transparent. This is made using Blender 2.91.2 in Ubuntu OS 20.04 LTS (Focal Fossa).
