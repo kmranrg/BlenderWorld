@@ -12,3 +12,5 @@ simple animations using blender
 + 4_make_png_transparent : This video shows how to make png file transparent. This is made using Blender 2.91.2 in Ubuntu OS 20.04 LTS (Focal Fossa).
 
 + 5_game_environment_design : This blender file shows a design of game environment. This is made using Blender 2.91.2 in Ubuntu OS 20.04 LTS (Focal Fossa).
+
++ 6_game_animation :  This blender file shows a animation of a simple game environment. This is made using Blender 2.91.2 in Ubuntu OS 20.04 LTS (Focal Fossa).
